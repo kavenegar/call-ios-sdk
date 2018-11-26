@@ -15,13 +15,13 @@
 
  ## مستندات
 برای مشاهده مستندات به صفحه 
-[مستندات کیت توسعه اندروید](https://docs.kavenegar.io/guide/ios/intro.html)
+[مستندات کیت توسعه iOS](https://docs.kavenegar.io/guide/ios/intro.html)
  مراجعه نمایید.
 
 ## آموزش ها 
 
-- [آموزش راه اندازی سرویس تماس کاوه نگار در اندروید](https://docs.kavenegar.io/blog/android-quickstart.html)
-- [آموزش راه اندازی سرویس تماس کاوه نگار در iOS](https://docs.kavenegar.io/blog/ios-quickstart.html)
+- [آموزش راه اندازی سرویس تماس کاوه نگار در اندروید](https://docs.kavenegar.io/quickstart/android.html)
+- [آموزش راه اندازی سرویس تماس کاوه نگار در iOS](https://docs.kavenegar.io/quickstart/ios.html)
 
 ## نمونه کد
 
