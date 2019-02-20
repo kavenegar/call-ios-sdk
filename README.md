@@ -15,7 +15,7 @@
 
  ## مستندات
 برای مشاهده مستندات به صفحه 
-[مستندات کیت توسعه iOS](https://docs.kavenegar.io/guide/ios/intro.html)
+[مستندات کیت توسعه iOS](https://docs.kavenegar.io/ios/setup.html)
  مراجعه نمایید.
 
 ## آموزش ها 
